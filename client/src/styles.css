@@ -37,7 +37,7 @@ button:focus-visible
 {
     min-height: 100vh;
     padding: 28px 20px;
-    background: #111827;
+    background: #31752f;
     color: white;
     display: flex;
     flex-direction: column;
@@ -92,7 +92,7 @@ button:focus-visible
 .menuItem.active 
 {
     color: white;
-    background: #1f2937;
+    background: #18422a;
 }
 .sidebarNote 
 {

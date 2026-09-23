@@ -15,8 +15,8 @@ return (
                 <button className="menuItem" type="button">Проекты</button>
             </nav>
             <div className="sidebarNote">
-                <strong>Практика 1</strong>
-                <span>Статический интерфейс на React</span>
+                <strong>Рагимов Аскер</strong>
+                <span>ИКБО-20-25</span>
             </div>
         </aside>
     );
